@@ -1,1 +1,1 @@
-# SMARTTECHtoRS232
+# SmartTech to RS-232 
