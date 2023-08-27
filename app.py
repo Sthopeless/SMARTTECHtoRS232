@@ -3,7 +3,7 @@ import serial
 import time
 import json 
 
-with open(".config.json") as config_file:
+with open("config.json") as config_file:
     config = json.load(config_file)
 
 mqtt_config = config["mqtt"]
